@@ -1,0 +1,7 @@
+SafeAreaView : The safe area is the portion of the device's screen that is visible and usable, taking into account any notches, camera cutouts, or other screen features that might obstruct the view.
+منطقة الأمان هي الجزء من شاشة الجهاز الذي يمكن رؤيته واستخدامه ،
+ مع مراعاة أي نتوءات أو قطعات الكاميرا أو ميزات الشاشة الأخرى التي قد تعوق الرؤية.
+
+
+
+SplashScreen:  is a component that is displayed when the app is launched, while the app is loading its initial resources and data
